@@ -1,2 +1,1 @@
-print("Hello world")
-print("hello dina")
+print("Enter the name:")
